@@ -262,7 +262,8 @@
 .lotusActionBar{
   position: absolute!important;
   width: 100px;
-  margin-top: 55px
+  margin-top: 55px;
+  background-color:red;
 }
 
 .lotusui30 .lotusBtn {
